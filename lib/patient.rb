@@ -3,7 +3,7 @@ class Patient
 
   def initialize(name)
     @name = name
-    @Patient = patient
+    @patient = patient
   end
 
   def new_appointment(doctor, date)
