@@ -20,8 +20,4 @@ class Patient
       appointment.doctor
     end
   end
-  
-  def patients
-    self.patient
-  end
 end
